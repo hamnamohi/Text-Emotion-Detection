@@ -1,4 +1,4 @@
-# Text-Emotion-Detection
+# Sentimeter-Text-Emotion-Detector
 **Setup**
 
 - Clone the repository.(git clone repo link)
